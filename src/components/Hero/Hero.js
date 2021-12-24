@@ -21,7 +21,7 @@ const Hero = () => (
           (window.location = "https://na.op.gg/summoner/userName=sen1orch1cken")
         }
       >
-        Learn More
+        Resume
       </Button>
       {/* an change to "contact me -> email" */}
     </LeftSection>
