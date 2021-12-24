@@ -15,7 +15,7 @@ export const projects = [
     description:
       "Tackling the global water crisis with a cloud-based water leak detector for flood prevention. [Something about auto-shutoff valve, remote]",
     image: "/images/lifesource.png",
-    tags: ["C++", "Arduino"],
+    tags: ["C++", "Arduino", "Ubidots"],
     visit: "https://github.com/zhangandrew37/LifeSource-Leak-Detector",
     id: 2,
   },
@@ -34,7 +34,7 @@ export const projects = [
     description:
       "Ensuring no food goes to waste by providing users with all the tools they need to take control of their pantry.",
     image: "/images/foodaddict.png",
-    tags: ["React", "Firebase"],
+    tags: ["React", "Javascript", "Firebase"],
     source: "https://www.foodadd.tech/",
     visit: "https://github.com/RyanL123/HTN2020",
     id: 3,
@@ -43,12 +43,18 @@ export const projects = [
 
 export const TimeLineData = [
   { year: 2017, text: "Started my programming journey" },
-  { year: 2018, text: "Qualified for the 2018 FLL World Championships" },
+  {
+    year: 2018,
+    text: "Qualified for the 2018 FLL World Championships as 1 of 2 Canadian teams",
+  },
   {
     year: 2019,
     text: "Mentored MI3L School, a community robotics organization",
   },
-  { year: 2020, text: "[ML/scikit-learn for the Ontario Clean Wwater Agency]" },
+  {
+    year: 2020,
+    text: "[ML/scikit-learn stuff for the Ontario Clean Wwater Agency]",
+  },
   {
     year: 2021,
     text: "Began studying Computer Science at the University of Waterloo",
