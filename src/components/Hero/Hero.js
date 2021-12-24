@@ -15,8 +15,12 @@ const Hero = () => (
         Hello there, <br />
         I'm Andrew!
       </SectionTitle>
-      <SectionText>[My value/expertise]</SectionText>
-      <Button onClick={() => (window.location = "https://google.com")}>
+      <SectionText>I love inting!</SectionText>
+      <Button
+        onClick={() =>
+          (window.location = "https://na.op.gg/summoner/userName=sen1orch1cken")
+        }
+      >
         Learn More
       </Button>
       {/* an change to "contact me -> email" */}
