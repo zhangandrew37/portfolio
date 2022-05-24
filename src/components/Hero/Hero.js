@@ -16,7 +16,7 @@ const Hero = () => (
         I'm Andrew!
       </SectionTitle>
       <SectionText>
-        and interested in software engineering and machine learning.
+        Passionate about software engineering and machine learning.
       </SectionText>
       <Button onClick={() => (window.location = "../../../public/resume.pdf")}>
         Resume
