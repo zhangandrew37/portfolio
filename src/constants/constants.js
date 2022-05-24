@@ -12,7 +12,7 @@ export const projects = [
   {
     title: "LifeSource Leak Detector",
     description:
-      "Tackling the global water crisis with a cloud-based water leak detector for flood prevention. [Something about auto-shutoff valve, remote]",
+      "Tackling the global water crisis by innovating a cloud-based water leak detector for flood prevention using an OpenCV image recognition system in C++",
     image: "/images/lifesource.png",
     tags: ["C++", "Arduino", "Ubidots"],
     visit: "https://github.com/zhangandrew37/LifeSource-Leak-Detector",
