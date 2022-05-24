@@ -5,9 +5,8 @@ export const projects = [
       "A machine learning tool that allows professionals in any field to solve their challenges without the need of any in-depth programming training or knowledge.",
     image: "/images/ml-app.png",
     tags: ["Python", "scikit-learn", "Streamlit"],
-    source:
-      "https://share.streamlit.io/zhangandrew37/ml-web-app/main/ml-app.py",
-    visit: "https://github.com/zhangandrew37/ML-web-app",
+    source: "https://share.streamlit.io/zhangandrew37/ml-app/main/main.py",
+    visit: "https://github.com/zhangandrew37/ml-app",
     id: 0,
   },
   {
@@ -53,7 +52,7 @@ export const TimeLineData = [
   },
   {
     year: 2020,
-    text: "[ML/scikit-learn stuff for the Ontario Clean Wwater Agency]",
+    text: "Initiated an no-code ML software to make ML accessible for everyone",
   },
   {
     year: 2021,
