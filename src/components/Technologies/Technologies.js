@@ -19,7 +19,9 @@ const Technologies = () => (
     <SectionDivider />
     <br />
     <SectionTitle>Technologies</SectionTitle>
-    <SectionText>I'm proficient in many languages!</SectionText>
+    <SectionText>
+      I'm proficient in many languages, frameworks and libraries!
+    </SectionText>
     <List>
       <ListItem>
         <DiFirebase size="3rem" />
