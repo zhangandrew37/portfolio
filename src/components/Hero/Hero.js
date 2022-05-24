@@ -15,12 +15,10 @@ const Hero = () => (
         Hello there, <br />
         I'm Andrew!
       </SectionTitle>
-      <SectionText>I love inting!</SectionText>
-      <Button
-        onClick={() =>
-          (window.location = "https://na.op.gg/summoner/userName=sen1orch1cken")
-        }
-      >
+      <SectionText>
+        and interested in software engineering and machine learning.
+      </SectionText>
+      <Button onClick={() => (window.location = "../../../public/resume.pdf")}>
         Resume
       </Button>
       {/* an change to "contact me -> email" */}
