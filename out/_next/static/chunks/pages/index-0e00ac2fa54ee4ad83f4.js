@@ -1460,7 +1460,7 @@
             description:
               "A charitable website that assists immigrants in finding fair jobs for themselves based on their previous experience.",
             image: "/images/jobeasy.png",
-            tags: ["React", "Gatsby", "Firebase", "Storybook"],
+            tags: ["React", "Gatsby", "Firebase"],
             source: "https://job-easy.netlify.app/",
             visit: "https://github.com/zhangandrew37/ics4u0-project",
             id: 1,

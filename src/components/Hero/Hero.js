@@ -16,7 +16,7 @@ const Hero = () => (
         I'm Andrew!
       </SectionTitle>
       <SectionText>
-        Software Developer @ Wind River. Passionate about software engineering
+        Software @ Wind River. Passionate about software engineering
         and machine learning.
       </SectionText>
       <Button onClick={() => (window.location = "../../../public/resume.pdf")}>
