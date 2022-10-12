@@ -38,6 +38,26 @@ export const projects = [
     visit: "https://github.com/RyanL123/HTN2020",
     id: 3,
   },
+  {
+    title: "FoodAddict",
+    description:
+      "Ensuring no food goes to waste by providing users with all the tools they need to take control of their pantry.",
+    image: "/images/foodaddict.png",
+    tags: ["React", "Javascript", "Firebase"],
+    source: "https://www.foodadd.tech/",
+    visit: "https://github.com/RyanL123/HTN2020",
+    id: 4,
+  },
+  {
+    title: "FoodAddict",
+    description:
+      "Ensuring no food goes to waste by providing users with all the tools they need to take control of their pantry.",
+    image: "/images/foodaddict.png",
+    tags: ["React", "Javascript", "Firebase"],
+    source: "https://www.foodadd.tech/",
+    visit: "https://github.com/RyanL123/HTN2020",
+    id: 5,
+  },
 ];
 
 export const TimeLineData = [
