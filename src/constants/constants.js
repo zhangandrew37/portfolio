@@ -78,4 +78,8 @@ export const TimeLineData = [
     year: 2021,
     text: "Began studying Computer Science at the University of Waterloo",
   },
+  {
+    year: 2022,
+    text: "Joined UW Blueprint to build tech for social good",
+  },
 ];

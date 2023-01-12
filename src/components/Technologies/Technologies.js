@@ -29,8 +29,8 @@ const Technologies = () => (
           <ListTitle>Front-end</ListTitle>
           <listParagraph>
             Experience with <br />
-            HTML, CSS, JS and <br />
-            React.js
+            JavaScript, TS, <br />
+            HTML/CSS and React.js
           </listParagraph>
         </ListContainer>
       </ListItem>
@@ -40,18 +40,21 @@ const Technologies = () => (
           <ListTitle>Back-end</ListTitle>
           <listParagraph>
             Experience with <br />
-            SQL, Firebase and <br />
-            Databases
+            Java, Python, and<br />
+            Database Infastructure
           </listParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
         <DiZend size="3rem" />
         <ListContainer>
-          <ListTitle>Full Stack</ListTitle>
+          <ListTitle>System software</ListTitle>
           <listParagraph>
             Experience with <br />
-            Java, Python, C# and <br /> .NET
+            C, C++, O/S, concurrent
+            <br />
+            and multithreaded applications
+            <br />
           </listParagraph>
         </ListContainer>
       </ListItem>

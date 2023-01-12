@@ -31,7 +31,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>“The best way to predict the future is to invent it.”</Slogan>
+          <Slogan></Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://https://github.com/zhangandrew37">

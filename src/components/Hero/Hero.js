@@ -16,9 +16,8 @@ const Hero = () => (
         I'm Andrew!
       </SectionTitle>
       <SectionText>
-        Software @{" "}
-        <a href="https://www.windriver.com/products/helix">Wind River</a>.
-        Passionate about software engineering and machine learning.
+        Backend @ <a href="https://www.binance.com/en">Binance</a>. Check out
+        some cool things I built below!
       </SectionText>
       <Button onClick={() => (window.location = "../../../public/resume.pdf")}>
         Resume
